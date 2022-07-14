@@ -10,7 +10,7 @@ export class CotizacionComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-	console.log("hola");
+	console.log("como hola");
   }
 
 }
