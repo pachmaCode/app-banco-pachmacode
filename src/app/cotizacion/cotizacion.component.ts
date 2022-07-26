@@ -10,7 +10,7 @@ export class CotizacionComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-	console.log("sin perdida de datos actualizado");
+	console.log("cambio urgente hotfix");
   }
 
 }
